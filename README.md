@@ -28,3 +28,12 @@ The fans are connected to the overall structure using M3 hex bolts and M3 hex nu
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b9c11125-d250-4049-980d-dea296cd5c80" />
 
 <img width="482" height="803" alt="image" src="https://github.com/user-attachments/assets/d0bf2714-ab34-47f3-be72-3253d8c4a35a" />
+
+BOM :
+- 2 San Ace 40mmx40mmx28mm 24V DC fans [109P0424H3013 ](https://eu.mouser.com/ProductDetail/Sanyo-Denki/109P0424J3D013?qs=Ldb7c5mTB16si32ge6Vhuw%3D%3D&srsltid=AfmBOopSs5HVWytGm8OuQQlWThI0JyKG09uhcjhcz5PcyOM86HrqEf48)
+- 2 AA*3 battery cases
+- 8 M3 hex screws
+- 8 M3 hex nuts
+- 6 3.7V lithium batteries
+- 1 potentiometer
+- 1 switch
