@@ -9,7 +9,7 @@ you can choose 4 angles to set your PC on which are :
 3- 22 degrees
 4- 15 degrees
 
-<img width="1359" height="736" alt="Screenshot 2026-05-26 123949" src="https://github.com/user-attachments/assets/61496282-0a80-48c4-9d78-bfaf56d9139a" />
+<img width="1185" height="669" alt="image" src="https://github.com/user-attachments/assets/3ec882c6-8c6e-4cb2-a37f-59c902fa04ac" />
 
 The design can also be disassembled for easier carrying ! It is mainly composed from 5 parts that are easy to connect and to disconnect. I designed hinges suitable for 3d printing because thats how I was planning to build it so I wouldn't recommend using other materials than plastic. The extremeties of the parts have to be bent so they can fit through. 
 
