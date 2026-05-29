@@ -21,19 +21,20 @@ The design can also be disassembled for easier carrying ! It is mainly composed 
 <img width="469" height="528" alt="image" src="https://github.com/user-attachments/assets/b1f79d57-147f-4920-a2c3-4a62d8369f5b" />
 
 
-The design also include two 24V DC fans to cool down my laptop with two slots for 2 AA*3 battery cases, a switch to turn on/off and a potentiometer to adjust the speed of the fans.
+The design also include two 12V DC fans mounted in parallel to cool down my laptop. The fans are powered by the 5V USB-c output of my laptor, so I will use a boost converter XL6009 to elevate the Voltage from 5V to 12V with ceramic and electrolytic capacitors and a polyfuse.
 
 
-<img width="1250" height="570" alt="Screenshot 2026-05-26 124013" src="https://github.com/user-attachments/assets/6d0fa476-f169-4680-8379-75774e455c42" />
+<img width="659" height="589" alt="image" src="https://github.com/user-attachments/assets/3a43e16d-d09d-43f4-adf2-35081d649015" />
+
 
 
 Here is the wiring :
 
 
-<img width="286" height="252" alt="Screenshot 2026-05-25 184030" src="https://github.com/user-attachments/assets/c74c01aa-9a53-4401-90a1-964b6ff379f6" />
+<img width="427" height="731" alt="Screenshot 2026-05-29 122412" src="https://github.com/user-attachments/assets/6bd708b2-f0cc-4ea0-bc02-fc5604ad5868" />
 
 
-The fans are connected to the overall structure using M3 hex bolts and M3 hex nuts. I designed the slots of the fan to fix it according to the exact model I was planning to buy which is San Ace 109P0424H3013
+The fans are connected to the overall structure using M3 hex bolts and M3 hex nuts. I designed the slots of the fan to fix it according to the exact model I was planning to buy.
 
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b9c11125-d250-4049-980d-dea296cd5c80" />
@@ -42,10 +43,11 @@ The fans are connected to the overall structure using M3 hex bolts and M3 hex nu
 
 
 BOM :
-- 2 San Ace 40mmx40mmx28mm 24V DC fans [109P0424H3013 ](https://eu.mouser.com/ProductDetail/Sanyo-Denki/109P0424J3D013?qs=Ldb7c5mTB16si32ge6Vhuw%3D%3D&srsltid=AfmBOopSs5HVWytGm8OuQQlWThI0JyKG09uhcjhcz5PcyOM86HrqEf48)
-- 2 AA*3 battery cases
+- 2 40mmx40mmx10mm 12V DC fans https://little-son.tn/accueil/1542-ventilateur-12v-40x40x10mm-2-fils.html
 - 8 M3 hex screws
 - 8 M3 hex nuts
-- 6 3.7V lithium batteries
-- 1 potentiometer
-- 1 switch
+- 1 boost converter XL6009 https://little-son.tn/accueil/627-module-xl6009-elevateur-regulateur-de-tension-dc-dc-3-32v-a-5-35v.html
+- 2 100µF electrolytic capacitors
+- 1 10nF ceramic capacitor
+- 1 10µF ceramic capacitor
+- 1 500mA polyfuse
