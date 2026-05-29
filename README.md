@@ -2,7 +2,7 @@
 Since I got my new laptop, I always wanted to get a stand for easier usage but most of the designs i found online were either too expensive or couldn't support the weight of my PC (3kgs). So I decided to make my own design with adjustable width going from 135mm to 215mm and angles.
 
 
-<img width="1109" height="438" alt="image" src="https://github.com/user-attachments/assets/c9b34fca-a806-49f7-8e93-c16afd546882" />
+<img width="1279" height="554" alt="Screenshot 2026-05-29 130837" src="https://github.com/user-attachments/assets/6eb90ba0-c32a-45c5-be18-d9e32fd383df" />
 
 
 you can choose 4 angles to set your PC on which are : 
