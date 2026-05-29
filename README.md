@@ -25,6 +25,7 @@ The design also include two 12V DC fans mounted in parallel to cool down my lapt
 I will cut a USB-c wire and directly solder it to the capacitors and the boost converter.
 
 Here is the wiring :
+https://app.cirkitdesigner.com/project/a9c20a31-ab86-427d-9aed-42c307f47625
 
 
 <img width="427" height="731" alt="Screenshot 2026-05-29 122412" src="https://github.com/user-attachments/assets/6bd708b2-f0cc-4ea0-bc02-fc5604ad5868" />
