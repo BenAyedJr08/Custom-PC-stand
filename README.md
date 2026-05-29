@@ -22,6 +22,7 @@ The design can also be disassembled for easier carrying ! It is mainly composed 
 
 
 The design also include two 12V DC fans mounted in parallel to cool down my laptop. The fans are powered by the 5V USB-c output of my laptor, so I will use a boost converter XL6009 to elevate the Voltage from 5V to 12V with ceramic and electrolytic capacitors and a polyfuse.
+I will cut a USB-c wire and directly solder it to the capacitors and the boost converter.
 
 Here is the wiring :
 
