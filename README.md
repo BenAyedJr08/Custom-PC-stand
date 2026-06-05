@@ -12,7 +12,8 @@ you can choose 4 angles to set your PC on which are :
 4- 15 degrees
 
 
-<img width="1185" height="669" alt="image" src="https://github.com/user-attachments/assets/3ec882c6-8c6e-4cb2-a37f-59c902fa04ac" />
+<img width="1122" height="447" alt="image" src="https://github.com/user-attachments/assets/d946f54e-87da-4977-b873-bddbae1987e8" />
+
 
 
 The design can also be disassembled for easier carrying ! It is mainly composed from 5 parts that are easy to connect and to disconnect. I designed hinges suitable for 3d printing because thats how I was planning to build it so I wouldn't recommend using other materials than plastic. The extremeties of the parts have to be bent so they can fit through. Also I would recommend using PETG filament instead of PLA because it can support heating and the weight better than the PLA.
