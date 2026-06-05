@@ -50,6 +50,7 @@ BOM :
 - 2 40mmx40mmx10mm 12V DC fans https://little-son.tn/accueil/1542-ventilateur-12v-40x40x10mm-2-fils.html
 - 12 M3 countersunk flat head crossed screws
 - 8 M3 hex nuts
+- 4 M3 heat set inserts for 3d printing
 - 1 boost converter XL6009E1 https://little-son.tn/accueil/627-module-xl6009-elevateur-regulateur-de-tension-dc-dc-3-32v-a-5-35v.html
 - 2 100µF electrolytic capacitors
 - 1 10nF ceramic capacitor
