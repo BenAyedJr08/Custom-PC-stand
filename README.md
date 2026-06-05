@@ -32,19 +32,25 @@ https://app.cirkitdesigner.com/project/a9c20a31-ab86-427d-9aed-42c307f47625
 <img width="427" height="731" alt="Screenshot 2026-05-29 122412" src="https://github.com/user-attachments/assets/6bd708b2-f0cc-4ea0-bc02-fc5604ad5868" />
 
 
-The fans are connected to the overall structure using M3 hex bolts and M3 hex nuts. I designed the slots of the fan to fix it according to the exact model I was planning to buy.
+The fans are connected to the overall structure using M3 countersunk flat head crossed screws and M3 hex nuts. I designed the slots of the fan to fix it according to the exact model I was planning to buy.
 
 
 <img width="659" height="589" alt="image" src="https://github.com/user-attachments/assets/3a43e16d-d09d-43f4-adf2-35081d649015" />
 
 <img width="482" height="803" alt="image" src="https://github.com/user-attachments/assets/d0bf2714-ab34-47f3-be72-3253d8c4a35a" />
 
+I also made a case for the XL6009E1 boost converted with each pin written on the outside
+
+<img width="880" height="657" alt="Screenshot 2026-06-05 160744" src="https://github.com/user-attachments/assets/8dc9da3b-8b29-497c-9943-844bcf280f6a" />
+
+<img width="472" height="317" alt="Screenshot 2026-06-05 160819" src="https://github.com/user-attachments/assets/4746bb5c-c108-4191-8855-bb7530135392" />
+
 
 BOM :
 - 2 40mmx40mmx10mm 12V DC fans https://little-son.tn/accueil/1542-ventilateur-12v-40x40x10mm-2-fils.html
-- 8 M3 hex screws
+- 12 M3 countersunk flat head crossed screws
 - 8 M3 hex nuts
-- 1 boost converter XL6009 https://little-son.tn/accueil/627-module-xl6009-elevateur-regulateur-de-tension-dc-dc-3-32v-a-5-35v.html
+- 1 boost converter XL6009E1 https://little-son.tn/accueil/627-module-xl6009-elevateur-regulateur-de-tension-dc-dc-3-32v-a-5-35v.html
 - 2 100µF electrolytic capacitors
 - 1 10nF ceramic capacitor
 - 1 10µF ceramic capacitor
