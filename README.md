@@ -50,6 +50,9 @@ I also made a case for the XL6009E1 boost converted with each pin written on the
 
 <img width="472" height="317" alt="Screenshot 2026-06-05 160819" src="https://github.com/user-attachments/assets/4746bb5c-c108-4191-8855-bb7530135392" />
 
+# how to assemble :
+assembling is pretty easy, you can bend the printed parts so they can be fixed together and the fans easily fixed using M3 screws and nuts.
+then you can solder everything together. I'd recommend starting with the capacitors and soldering their leads together then adding the wires. Then you can cut a USB-C cable, remove some of the plastic that covers it then isolating the white and green wires with tape. Those wires are for data transmission and you wont need them in this project.
 
 # BOM :
 - 2 40mmx40mmx10mm 12V DC fans https://little-son.tn/accueil/1542-ventilateur-12v-40x40x10mm-2-fils.html
