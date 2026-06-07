@@ -57,3 +57,5 @@ BOM :
 - 1 10nF ceramic capacitor
 - 1 10µF ceramic capacitor
 - 1 500mA polyfuse
+
+[THE custom PC stand.pdf](https://github.com/user-attachments/files/28688696/THE.custom.PC.stand.pdf)
