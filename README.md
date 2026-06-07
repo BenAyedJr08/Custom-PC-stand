@@ -1,4 +1,5 @@
 # Custom-PC-stand
+<img width="1410" height="2000" alt="THE custom PC stand" src="https://github.com/user-attachments/assets/d42caac8-d585-46d1-b536-2db97565a9b5" />
 Since I got my new laptop, I always wanted to get a stand for easier usage but most of the designs i found online were either too expensive or couldn't support the weight of my PC (3kgs). So I decided to make my own design with adjustable width going from 135mm to 215mm and angles.
 
 
@@ -46,7 +47,7 @@ I also made a case for the XL6009E1 boost converted with each pin written on the
 <img width="472" height="317" alt="Screenshot 2026-06-05 160819" src="https://github.com/user-attachments/assets/4746bb5c-c108-4191-8855-bb7530135392" />
 
 
-BOM :
+# BOM :
 - 2 40mmx40mmx10mm 12V DC fans https://little-son.tn/accueil/1542-ventilateur-12v-40x40x10mm-2-fils.html
 - 4 M3 12mm countersunk flat head crossed screws
 - 8 M3 16mm countersunk flat head crossed screws
@@ -57,5 +58,3 @@ BOM :
 - 1 10nF ceramic capacitor
 - 1 10µF ceramic capacitor
 - 1 500mA polyfuse
-
-[THE custom PC stand.pdf](https://github.com/user-attachments/files/28688696/THE.custom.PC.stand.pdf)
