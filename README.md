@@ -1,5 +1,9 @@
 # Custom-PC-stand
+
+
 <img width="1410" height="2000" alt="THE custom PC stand" src="https://github.com/user-attachments/assets/d42caac8-d585-46d1-b536-2db97565a9b5" />
+
+
 Since I got my new laptop, I always wanted to get a stand for easier usage but most of the designs i found online were either too expensive or couldn't support the weight of my PC (3kgs). So I decided to make my own design with adjustable width going from 135mm to 215mm and angles.
 
 
