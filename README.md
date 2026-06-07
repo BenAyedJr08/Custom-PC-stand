@@ -59,6 +59,5 @@ I also made a case for the XL6009E1 boost converted with each pin written on the
 - 4 M3 heat set inserts for 3d printing
 - 1 boost converter XL6009E1 https://little-son.tn/accueil/627-module-xl6009-elevateur-regulateur-de-tension-dc-dc-3-32v-a-5-35v.html
 - 2 100µF electrolytic capacitors
-- 1 10nF ceramic capacitor
-- 1 10µF ceramic capacitor
+- 2 10nF ceramic capacitor
 - 1 500mA polyfuse
