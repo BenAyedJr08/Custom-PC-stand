@@ -3,7 +3,9 @@ today i started my project by 3d modeling essential parts to the PC stand using 
 I was planning to 3d print the parts so i searched on youtube for some tips to design 3d printable hinges for the rotation of my stand and i got started. I designed the first 3 parts of my project and assembled them to see how they fit and to look for any flaws. throughout these few hours that i spent on 3d modeling, i got more used to 3d softwares and learned a lot from my mistakes.
 
 ![image_2026-05-16_221616658.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYzODQsInB1ciI6ImJsb2JfaWQifX0=--469e4051dab665cf01758b83de5be90111354393/image_2026-05-16_221616658.png)
+
 ![image_2026-05-16_221655098.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYzODYsInB1ciI6ImJsb2JfaWQifX0=--1be2ae8264620c6b286f660ab8b3c20718c06066/image_2026-05-16_221655098.png)
+
 ![image_2026-05-16_221726713.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYzODcsInB1ciI6ImJsb2JfaWQifX0=--57a990cb85982c1c0dfa519be60203996cecdf59/image_2026-05-16_221726713.png)
 
 ## Entry 2
